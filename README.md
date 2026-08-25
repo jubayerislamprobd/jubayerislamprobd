@@ -49,7 +49,7 @@ I help businesses **architect, optimize, and deploy custom AI Agents and product
 
 **[wacrm](https://github.com/jubayerislamprobd/wacrm)** — A custom-built WhatsApp CRM for managing WhatsApp Business conversations, leads, and customer data. [Live demo →](https://nateceant-crm.vercel.app)
 
-**[n8n-client-project](https://github.com/jubayerislamprobd/n8n-client-project)** — A curated, categorized library of 4,479 n8n workflow templates covering AI Agents, WhatsApp automation, CRM sync, RAG chatbots, and more. Includes a hand-picked [Featured 40](https://github.com/jubayerislamprobd/n8n-client-project/tree/master/featured) of the highest-demand automation patterns.
+**[n8n-automation-project](https://github.com/jubayerislamprobd/n8n-automation-project)** — A curated, categorized library of 4,479 n8n workflow templates covering AI Agents, WhatsApp automation, CRM sync, RAG chatbots, and more. Includes a hand-picked [Featured 40](https://github.com/jubayerislamprobd/n8n-automation-project/tree/master/featured) of the highest-demand automation patterns.
 
 ---
 
