@@ -51,6 +51,16 @@ I help businesses **architect, optimize, and deploy custom AI Agents and product
 
 **[n8n-automation-project](https://github.com/jubayerislamprobd/n8n-automation-project)** — A curated, categorized library of 4,479 n8n workflow templates covering AI Agents, WhatsApp automation, CRM sync, RAG chatbots, and more. Includes a hand-picked [Featured 40](https://github.com/jubayerislamprobd/n8n-automation-project/tree/master/featured) of the highest-demand automation patterns.
 
+**Client Automation Builds:**
+- **[advanced-messenger-ai-agent](https://github.com/jubayerislamprobd/advanced-messenger-ai-agent)** — Smart comment reply & Direct Inbox automation for Facebook Messenger
+- **[whatsapp-agent-automation](https://github.com/jubayerislamprobd/whatsapp-agent-automation)** — WhatsApp Business AI agent with order notifications
+- **[messenger-automation-gpt4](https://github.com/jubayerislamprobd/messenger-automation-gpt4)** — GPT-4 powered Messenger bot (text, image, voice)
+- **[comment-sales-funnel](https://github.com/jubayerislamprobd/comment-sales-funnel)** — Facebook comments → sales funnel automation
+- **[incomplete-order-recovery-automation](https://github.com/jubayerislamprobd/incomplete-order-recovery-automation)** — Abandoned order recovery via WhatsApp + SMS
+- **[facebook-auto-reply-bot](https://github.com/jubayerislamprobd/facebook-auto-reply-bot)** — Facebook auto-reply & comment moderation
+- **[whatsapp-followup-system](https://github.com/jubayerislamprobd/whatsapp-followup-system)** — Automated WhatsApp lead follow-up
+- **[nextcore-followup-automation](https://github.com/jubayerislamprobd/nextcore-followup-automation)** — Client follow-up automation system
+
 ---
 
 ### 📊 GitHub Stats
