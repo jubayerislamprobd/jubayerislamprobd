@@ -63,11 +63,13 @@ I help businesses **architect, optimize, and deploy custom AI Agents and product
 
 ---
 
-### 📊 GitHub Stats
+### 📈 By the Numbers
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jubayerislamprobd&show_icons=true&theme=dark&hide_border=true&title_color=6A0DD1&icon_color=6A0DD1" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jubayerislamprobd&theme=dark&hide_border=true&background=0D1117&ring=6A0DD1&fire=6A0DD1" alt="GitHub Streak" height="165" />
+  <img src="https://img.shields.io/badge/150%2B-Businesses%20Automated-6A0DD1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/12%2B-Countries%20Served-6A0DD1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/5.0★-40%2B%20Reviews-6A0DD1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Live%20in-2--3%20Days-6A0DD1?style=for-the-badge" />
 </p>
 
 ---
